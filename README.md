@@ -152,7 +152,7 @@ MySQL                ████████████░░░░░░ 65%
 | Platform | Link |
 |----------|------|
 | **GitHub** | [hadiahtasneem-code](https://github.com/hadiahtasneem-code) |
-| **Salesforce** | [Trailblazer Profile](https://www.salesforce.com/trailblazer/su3query5sd2zofafv) |
+
 
 </div>
 
